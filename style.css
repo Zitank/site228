@@ -1,0 +1,70 @@
+.first{
+    width: 100%;
+    height:95vh;
+    background-color: #25272f;
+    display: flex;
+}
+.textbogdan{
+    position: absolute;
+    top:400px;
+    right: 0px;
+}
+.krug{
+    position: absolute;
+    bottom:50px;
+    right: 10px;
+    width: 120%;
+    height: 120%;
+}
+.foto{
+    width: 75%;
+    position: absolute;
+    right: 480px;
+    top:118px;
+}
+.top{
+    height:10vh;
+    width:100%;
+    background-color: black;
+    display: flex;
+}
+.maintext{
+    display: flex;
+    height:10vh;
+}
+znak{
+    position: absolute;
+}
+.shutki{
+    background-color: #141516;
+    height:100vh;
+}
+.knopka{
+    padding: 7px 15px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    position: absolute;
+    left:600px;
+    bottom:30px;
+}
+.knopka:hover{
+    background-color: #2b2b2b;
+    cursor: pointer;
+}
+.tretiy{
+    height:100vh;
+    background-color: #25272f;
+}
+.discord{
+    width: 50px;
+    height: 50px;
+}
+.telegram{
+    width: 50px;
+    height: 50px;
+}
+.about{
+    background-color: #2b2b2b;
+}
